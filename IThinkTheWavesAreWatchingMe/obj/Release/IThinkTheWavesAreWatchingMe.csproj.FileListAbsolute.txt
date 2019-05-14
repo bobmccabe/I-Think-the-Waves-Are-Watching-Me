@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2013\Projects\IThinkTheWavesAreWatchingMe\IThinkTheWavesAreWatchingMe\bin\Release\IThinkTheWavesAreWatchingMe.exe.config
+D:\Documents\Visual Studio 2013\Projects\IThinkTheWavesAreWatchingMe\IThinkTheWavesAreWatchingMe\bin\Release\IThinkTheWavesAreWatchingMe.exe
+D:\Documents\Visual Studio 2013\Projects\IThinkTheWavesAreWatchingMe\IThinkTheWavesAreWatchingMe\bin\Release\IThinkTheWavesAreWatchingMe.pdb
+D:\Documents\Visual Studio 2013\Projects\IThinkTheWavesAreWatchingMe\IThinkTheWavesAreWatchingMe\obj\Release\IThinkTheWavesAreWatchingMe.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\IThinkTheWavesAreWatchingMe\IThinkTheWavesAreWatchingMe\obj\Release\IThinkTheWavesAreWatchingMe.exe
+D:\Documents\Visual Studio 2013\Projects\IThinkTheWavesAreWatchingMe\IThinkTheWavesAreWatchingMe\obj\Release\IThinkTheWavesAreWatchingMe.pdb
